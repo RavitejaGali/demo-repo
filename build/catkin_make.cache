@@ -1,0 +1,2 @@
+pcan_topics-release-rpm-ros-indigo-pcan-topics-1.0.11-0_heisenbug
+-DCATKIN_DEVEL_PREFIX=/home/raviteja/pcan_ravi/devel -DCMAKE_INSTALL_PREFIX=/home/raviteja/pcan_ravi/install -G Unix Makefiles

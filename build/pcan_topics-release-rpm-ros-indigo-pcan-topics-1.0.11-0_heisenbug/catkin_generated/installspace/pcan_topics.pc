@@ -1,0 +1,8 @@
+prefix=/home/raviteja/pcan_ravi/install
+
+Name: pcan_topics
+Description: Description of pcan_topics
+Version: 1.0.11
+Cflags: 
+Libs: -L/home/raviteja/pcan_ravi/install/lib 
+Requires: 

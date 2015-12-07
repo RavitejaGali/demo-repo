@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/talker.dir/src/talker.cpp.o  -o /home/raviteja/pcan_ravi/devel/lib/pcan_topics/talker -rdynamic -lQtGui -lQtCore 

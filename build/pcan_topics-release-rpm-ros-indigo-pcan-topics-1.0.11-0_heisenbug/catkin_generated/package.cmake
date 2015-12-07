@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "pcan_topics")
+set(pcan_topics_MAINTAINER "HJMeijdam <hendrik.meijdam@gmail.com>")
+set(pcan_topics_DEPRECATED "")
+set(pcan_topics_VERSION "1.0.11")
+set(pcan_topics_BUILD_DEPENDS "libpcan" "roscpp" "std_msgs" "qt_build")
+set(pcan_topics_RUN_DEPENDS "libqt4-dev")
+set(pcan_topics_BUILDTOOL_DEPENDS "catkin")
